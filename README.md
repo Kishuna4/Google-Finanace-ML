@@ -1,1 +1,1 @@
-# Google-Finanace-ML
+# Google-Finance-ML
